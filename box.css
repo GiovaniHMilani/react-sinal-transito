@@ -1,0 +1,19 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin: 10px auto;
+}
+
+.fundo {
+    width: 150px;
+    background-color: #26272e;
+    height: 380;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 25px;
+}
